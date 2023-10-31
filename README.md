@@ -1,16 +1,15 @@
-### Hi there 👋
+### bem vindo  ao meu perfil.🫀 
 
-<!--
-**MariCristina77/Maricristina77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome è Mariane cristina de araujo 
 
-Here are some ideas to get you started:
+-estou na plataforma alura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvolvendo nas linguagens java scrip,HTML e CSS
+
+-utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos 
+
+### você pode entrar em contato comigo 📫 
+
+Mariane.araujo.azevedo@escola.pr.gov.br
+
+![](https://media.tenor.com/J4E8FJ99A-QAAAAC/no-kanye-west.gif)
